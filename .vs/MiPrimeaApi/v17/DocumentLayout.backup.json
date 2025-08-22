@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\desktop\\mi primera api\\miprimeaapi\\miprimeaapi\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\desktop\\mi primera api\\miprimeaapi\\miprimeaapi\\models\\responseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\models\\responseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\desktop\\mi primera api\\miprimeaapi\\miprimeaapi\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\desktop\\mi primera api\\miprimeaapi\\miprimeaapi\\models\\requestuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\models\\requestuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\desktop\\mi primera api\\miprimeaapi\\miprimeaapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\desktop\\mi primera api\\miprimeaapi\\miprimeaapi\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Carro.cs",
-              "DocumentMoniker": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\Models\\Carro.cs",
-              "RelativeDocumentMoniker": "MiPrimeaApi\\Models\\Carro.cs",
-              "ToolTip": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\Models\\Carro.cs",
-              "RelativeToolTip": "MiPrimeaApi\\Models\\Carro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ResponseUser.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\Models\\ResponseUser.cs",
+              "RelativeDocumentMoniker": "MiPrimeaApi\\Models\\ResponseUser.cs",
+              "ToolTip": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\Models\\ResponseUser.cs",
+              "RelativeToolTip": "MiPrimeaApi\\Models\\ResponseUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T00:30:22.08Z",
+              "WhenOpened": "2025-08-22T01:38:40.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "RequestUser.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\Models\\RequestUser.cs",
+              "RelativeDocumentMoniker": "MiPrimeaApi\\Models\\RequestUser.cs",
+              "ToolTip": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\Models\\RequestUser.cs",
+              "RelativeToolTip": "MiPrimeaApi\\Models\\RequestUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T01:34:05.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MiPrimeaApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MiPrimeaApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T01:32:02.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CarroController.cs",
               "DocumentMoniker": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\Controllers\\CarroController.cs",
               "RelativeDocumentMoniker": "MiPrimeaApi\\Controllers\\CarroController.cs",
               "ToolTip": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\Controllers\\CarroController.cs",
               "RelativeToolTip": "MiPrimeaApi\\Controllers\\CarroController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T00:29:43.156Z",
               "EditorCaption": ""

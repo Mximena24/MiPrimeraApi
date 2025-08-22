@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\MiPrimeaApi.csproj",
+      "projectUniqueName": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\MiPrimeaApi.csproj",
       "projectName": "MiPrimeaApi",
-      "projectPath": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\MiPrimeaApi.csproj",
+      "projectPath": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\MiPrimeaApi.csproj",
       "packagesPath": "C:\\Users\\estudiante.upb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\estudiante.upb\\Desktop\\mi primera api\\MiPrimeaApi\\MiPrimeaApi\\obj\\",
+      "outputPath": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
