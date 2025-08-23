@@ -1,45 +1,59 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-
-// For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+using MiPrimeaApi.Models;
 
 namespace MiPrimeaApi.Controllers
 {
+	[ApiController]
+	[Route("[controller]")]
+	public class UserController : ControllerBase
+	{
+		private static List<ResponseUser> usuarios = new()
+		{
+			new ResponseUser { Id = 1, Nombre = "Camilo", Edad = 15, Categoria = "Menor de edad" },
+			new ResponseUser { Id = 2, Nombre = "Vannesa", Edad = 24, Categoria = "Mayor de edad" }
+		};
 
-    [ApiController]
-    [Route("[controller]")]
-    
-    public class UserController : ControllerBase
-    {
-        // GET: api/<UserController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
+		
+		[HttpGet]
+		[Route("user")]
+		public IEnumerable<ResponseUser> GetUsuarios()
+		{
+			return usuarios;
+		}
 
-        // GET api/<UserController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+	
+		[HttpPost]
+		[Route("user/create")]
+		public ActionResult<ResponseUser> CreateUsuario(RequestUser request)
+		{
+			if (request.Edad < 0)
+			{
+				return BadRequest("La edad no puede ser negativa.");
+			}
 
-        // POST api/<UserController>
-        [HttpPost]
-        public void Post([FromBody] string value)
-        {
-        }
+			var nuevoUsuario = new ResponseUser
+			{
+				Id = usuarios.Count > 0 ? usuarios.Max(u => u.Id) + 1 : 1,
+				Nombre = request.Nombre,
+				Edad = request.Edad,
+				Categoria = request.Edad < 18 ? "Menor de edad" : "Mayor de edad"
+			};
 
-        // PUT api/<UserController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
+			usuarios.Add(nuevoUsuario);
+			return nuevoUsuario;
 
-        // DELETE api/<UserController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
-        }
-    }
+			[HttpDelete]
+			[Route("user/delete/{id}")]
+			public IActionResult DeleteUsuario(int id)
+			{
+				var usuario = usuarios.FirstOrDefault(u => u.Id == id);
+				if (usuario == null)
+				{
+					return NotFound($"No se encontró el usuario con ID {id}.");
+				}
+
+				usuarios.Remove(usuario);
+				return NoContent();
+			}
+	}
 }
