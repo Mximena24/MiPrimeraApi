@@ -10,8 +10,10 @@ namespace MiPrimeaApi.Controllers
 		private static List<ResponseUser> usuarios = new()
 		{
 			new ResponseUser { Id = 1, Nombre = "Camilo", Edad = 15, Categoria = "Menor de edad" },
-			new ResponseUser { Id = 2, Nombre = "Vannesa", Edad = 24, Categoria = "Mayor de edad" }
-		};
+			new ResponseUser { Id = 2, Nombre = "Vannesa", Edad = 24, Categoria = "Mayor de edad" },
+            new ResponseUser { Id = 3, Nombre = "Ruben", Edad = 20, Categoria = "Mayor de edad" },
+            new ResponseUser { Id = 4, Nombre = "Sofia", Edad = 22, Categoria = "Mayor de edad" }
+        };
 
 		
 		[HttpGet]
@@ -21,7 +23,7 @@ namespace MiPrimeaApi.Controllers
 			return usuarios;
 		}
 
-	
+
 		[HttpPost]
 		[Route("user/create")]
 		public ActionResult<ResponseUser> CreateUsuario(RequestUser request)
@@ -42,18 +44,18 @@ namespace MiPrimeaApi.Controllers
 			usuarios.Add(nuevoUsuario);
 			return nuevoUsuario;
 
-			[HttpDelete]
-			[Route("user/delete/{id}")]
-			public IActionResult DeleteUsuario(int id)
-			{
-				var usuario = usuarios.FirstOrDefault(u => u.Id == id);
-				if (usuario == null)
-				{
-					return NotFound($"No se encontró el usuario con ID {id}.");
-				}
+			//[HttpDelete]
+			//[Route("user/delete/{id}")]
+			//public IActionResult DeleteUsuario(int id)
+			//{
+			//	var usuario = usuarios.FirstOrDefault(u => u.Id == id);
+			//	if (usuario == null)
+			//	{
+			//		return NotFound($"No se encontró el usuario con ID {id}.");
+			//	}
 
-				usuarios.Remove(usuario);
-				return NoContent();
+			//	usuarios.Remove(usuario);
+			//	return NoContent();
 			}
+		}
 	}
-}

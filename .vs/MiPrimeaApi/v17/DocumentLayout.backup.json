@@ -1,27 +1,24 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\",
+  "WorkspaceRootPath": "C:\\Users\\TOMMY\u0026MIA\\Documents\\GitHub\\MiPrimeraApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\documents\\github\\miprimeraapi\\miprimeaapi\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\documents\\github\\miprimeraapi\\miprimeaapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\documents\\github\\miprimeraapi\\miprimeaapi\\models\\responseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\models\\responseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\documents\\github\\miprimeraapi\\miprimeaapi\\models\\requestuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\models\\requestuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\documents\\github\\miprimeraapi\\miprimeaapi\\models\\responseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\models\\responseuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-  "WorkspaceRootPath": "C:\\Users\\TOMMY\u0026MIA\\Documents\\GitHub\\MiPrimeraApi\\",
-  "Documents": [
+      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\documents\\github\\miprimeraapi\\miprimeaapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
+      "AbsoluteMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|c:\\users\\estudiante.upb\\documents\\github\\miprimeraapi\\miprimeaapi\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E4D280-1BA5-4FC0-95E3-9491E0CAFAD4}|MiPrimeaApi\\MiPrimeaApi.csproj|solutionrelative:miprimeaapi\\controllers\\carrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\TOMMY\u0026MIA\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiPrimeaApi\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,77 +40,67 @@
         {
           "DockedWidth": 200,
 <<<<<<< HEAD
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResponseUser.cs",
-              "DocumentMoniker": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Models\\ResponseUser.cs",
-              "RelativeDocumentMoniker": "MiPrimeaApi\\Models\\ResponseUser.cs",
-              "ToolTip": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Models\\ResponseUser.cs",
-              "RelativeToolTip": "MiPrimeaApi\\Models\\ResponseUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T01:38:40.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RequestUser.cs",
-              "DocumentMoniker": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Models\\RequestUser.cs",
-              "RelativeDocumentMoniker": "MiPrimeaApi\\Models\\RequestUser.cs",
-              "ToolTip": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Models\\RequestUser.cs",
-              "RelativeToolTip": "MiPrimeaApi\\Models\\RequestUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
 =======
           "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+>>>>>>> 31172f486fdc03997d839d93af1c8a15111d42e7
               "Title": "ResponseUser.cs",
               "DocumentMoniker": "C:\\Users\\TOMMY\u0026MIA\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Models\\ResponseUser.cs",
               "RelativeDocumentMoniker": "MiPrimeaApi\\Models\\ResponseUser.cs",
               "ToolTip": "C:\\Users\\TOMMY\u0026MIA\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Models\\ResponseUser.cs",
               "RelativeToolTip": "MiPrimeaApi\\Models\\ResponseUser.cs",
->>>>>>> 31172f486fdc03997d839d93af1c8a15111d42e7
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T01:38:40.336Z"
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
               "DocumentIndex": 1,
+              "Title": "RequestUser.cs",
+              "DocumentMoniker": "C:\\Users\\TOMMY\u0026MIA\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Models\\RequestUser.cs",
+              "RelativeDocumentMoniker": "MiPrimeaApi\\Models\\RequestUser.cs",
+              "ToolTip": "C:\\Users\\TOMMY\u0026MIA\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Models\\RequestUser.cs",
+              "RelativeToolTip": "MiPrimeaApi\\Models\\RequestUser.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2025-08-22T01:34:05.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MiPrimeaApi\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Controllers\\UserController.cs",
               "RelativeToolTip": "MiPrimeaApi\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
-=======
-              "DocumentIndex": 2,
-              "Title": "RequestUser.cs",
-              "DocumentMoniker": "C:\\Users\\TOMMY\u0026MIA\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Models\\RequestUser.cs",
-              "RelativeDocumentMoniker": "MiPrimeaApi\\Models\\RequestUser.cs",
-              "ToolTip": "C:\\Users\\TOMMY\u0026MIA\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Models\\RequestUser.cs",
-              "RelativeToolTip": "MiPrimeaApi\\Models\\RequestUser.cs",
->>>>>>> 31172f486fdc03997d839d93af1c8a15111d42e7
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T01:34:05.265Z"
+              "WhenOpened": "2025-08-22T01:32:02.43Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-<<<<<<< HEAD
+              "DocumentIndex": 3,
               "Title": "CarroController.cs",
               "DocumentMoniker": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Controllers\\CarroController.cs",
               "RelativeDocumentMoniker": "MiPrimeaApi\\Controllers\\CarroController.cs",
               "ToolTip": "C:\\Users\\estudiante.upb\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Controllers\\CarroController.cs",
               "RelativeToolTip": "MiPrimeaApi\\Controllers\\CarroController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAoAAAAxAAAAAAAAAA==",
 =======
+              "WhenOpened": "2025-08-22T01:34:05.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\TOMMY\u0026MIA\\Documents\\GitHub\\MiPrimeraApi\\MiPrimeaApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MiPrimeaApi\\Controllers\\UserController.cs",

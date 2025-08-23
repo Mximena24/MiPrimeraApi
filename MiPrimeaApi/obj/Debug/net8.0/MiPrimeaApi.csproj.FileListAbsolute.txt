@@ -33,3 +33,39 @@ C:\Users\estudiante.upb\Desktop\mi primera api\MiPrimeaApi\MiPrimeaApi\obj\Debug
 C:\Users\estudiante.upb\Desktop\mi primera api\MiPrimeaApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.pdb
 C:\Users\estudiante.upb\Desktop\mi primera api\MiPrimeaApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.genruntimeconfig.cache
 C:\Users\estudiante.upb\Desktop\mi primera api\MiPrimeaApi\MiPrimeaApi\obj\Debug\net8.0\ref\MiPrimeaApi.dll
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\appsettings.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\MiPrimeaApi.staticwebassets.endpoints.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\MiPrimeaApi.exe
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\MiPrimeaApi.deps.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\MiPrimeaApi.runtimeconfig.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\MiPrimeaApi.dll
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\MiPrimeaApi.pdb
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.csproj.AssemblyReference.cache
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.AssemblyInfoInputs.cache
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.AssemblyInfo.cs
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.csproj.CoreCompileInputs.cache
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.sourcelink.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\scopedcss\bundle\MiPrimeaApi.styles.css
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimea.CE579119.Up2Date
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.dll
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\refint\MiPrimeaApi.dll
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.pdb
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\MiPrimeaApi.genruntimeconfig.cache
+C:\Users\estudiante.upb\Documents\GitHub\MiPrimeraApi\MiPrimeaApi\obj\Debug\net8.0\ref\MiPrimeaApi.dll
